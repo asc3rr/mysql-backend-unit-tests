@@ -1,0 +1,7 @@
+{"host":"127.0.0.1", "user":"root", "password":"", "db_name":"asc3rr"}
+blog
+http://127.0.0.1/city-simulator/login.php
+http://127.0.0.1/city-simulator/game/
+{"login":"asc3rr", "password":"dupa123"}
+http://127.0.0.1/city-simulator/game/menu/buy.php
+{"value":"mine", "number":2}
