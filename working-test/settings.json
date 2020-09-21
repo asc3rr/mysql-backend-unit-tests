@@ -1,0 +1,21 @@
+{
+    "is_login_test":false,
+    "is_using_session":false,
+    "login_url":"http://127.0.0.1/todo/login/login.php",
+    "after_login_url":"http://127.0.0.1/todo/",
+    "login_data":{
+        "login":"test-account",
+        "password":"dupa123"
+    },
+    "mysql_data":{
+        "host":"127.0.0.1",
+        "user":"root",
+        "password":"",
+        "db_name":"test",
+        "table_name":"data"
+    },
+    "main_url":"http://127.0.0.1/test/",
+    "main_data":{
+        "data":"Test"
+    }
+}
