@@ -1,0 +1,20 @@
+{
+    "is_login_test":false, // true or false
+    "is_using_session":false, // true or false
+    "login_url":"",
+    "after_login_url":"", // url of site that should appear after successful login
+    "login_data":{
+        
+    },
+    "mysql_data":{
+        "host":"",
+        "user":"",
+        "password":"",
+        "db_name":"",
+        "table_name":""
+    },
+    "main_url":"",
+    "main_data":{
+        
+    }
+}
